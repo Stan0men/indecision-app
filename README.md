@@ -7,4 +7,4 @@ Simple app on React.js
 ##### To try it localy
 1. Clone or download this repo
 2. ***npm i***
-3. ***npm run start***
+3. ***npm run serve***
